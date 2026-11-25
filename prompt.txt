@@ -1,0 +1,6 @@
+Write a two-sentence horror story for the make.fun bounty
+u-suroto-two-sentence-horror-acea9253. The program must output exactly two
+sentences, at most 400 characters in total, to entry.txt. Aim for a story
+where the second sentence reframes the first one and makes it worse on a
+second read: something ordinary and domestic at first, then a reveal that
+the narrator's situation was never what it seemed.
